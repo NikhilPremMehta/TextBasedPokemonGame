@@ -6,5 +6,5 @@ Some of the the things implemented:
 - Implemented evolutions
 
 As a note:
-- Was my first time using Classes so there are some OOP conceptual errors
+- Was my first time using Classes so there are some OOP conceptual errors (Most notably Pokemon & Enemy Pokemon class are identical)
 - I unfortunately made it so you have to refer to the pokemon by their full name followed by a number so I reccomend using 3 in the start to check the name of your pokemon
